@@ -12,7 +12,7 @@ My goal is to build consistency, deepen my understanding of real-world data, and
 
 ## 📅 Progress Tracker
 
-- ✅ Day 1 – [Sales Data Analysis](link)
+- ✅ Day 1 – [Sales Data Analysis](https://github.com/wajiha-khanam/daily-data-science/blob/main/28_04_25.ipynb)
 - ✅ Day 2 – [Coming soon…]
 
 ---
