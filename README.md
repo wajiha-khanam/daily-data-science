@@ -1,31 +1,35 @@
 # 🧠 Daily Data Science Challenges
 
-Welcome! This repository is my personal daily practice log for sharpening data science skills using Python. Each day, I solve:
+Welcome to my personal repository for daily practice in data science! Every day, I tackle a set of challenges to sharpen my skills in Python, focusing on real-world data, and building consistency across key areas. Each day, I solve:
 
-- 🐼 1 Pandas manipulation challenge  
-- 📊 1 Data visualization task  
-- 📂 1 small dataset-based analysis or EDA
+- 🐼 **3 Pandas manipulation challenges**  
+- 📊 **3 Data visualization tasks**  
+- 📂 **3 Exploratory Data Analysis (EDA) exercises**  
+- 📈 **3 Statistics-related questions**
 
-My goal is to build consistency, deepen my understanding of real-world data, and stay sharp with libraries like Pandas, Matplotlib, and Seaborn. All code is written in Jupyter Notebooks and organized by day.
+Through this process, I aim to deepen my understanding of core concepts and stay sharp with libraries like **Pandas**, **Matplotlib**, **Seaborn**, and more. All code is written in Jupyter Notebooks and organized by day.
 
 ---
 
 ## 📅 Progress Tracker
 
-- ✅ Day 1 – [Sales Data Analysis](https://github.com/wajiha-khanam/daily-data-science/blob/main/28_04_25.ipynb)
-- ✅ Day 2 – [Coming soon…]
+- ✅ **Day 1** – [Sales Data Analysis](https://github.com/wajiha-khanam/daily-data-science/blob/main/28_04_25.ipynb)
+- ✅ **Day 2** – [Coming soon…]
 
 ---
 
 ## 💡 Tools & Skills Practiced
 
-- Python, Pandas, NumPy  
-- Data cleaning & transformation  
-- Exploratory Data Analysis (EDA)  
-- Matplotlib, Seaborn  
-- Dataset exploration and storytelling
+- **Programming:** Python, Pandas, NumPy  
+- **Data Science Techniques:** Data cleaning, transformation, and manipulation  
+- **Exploratory Data Analysis (EDA)**  
+- **Visualization:** Matplotlib, Seaborn  
+- **Statistics:** Descriptive and inferential statistics
 
 ---
 
-Follow along or fork the repo to start your own daily challenge!
+### 🌱 **Growth & Goals**
+- Continuously improve analytical thinking and problem-solving skills.
+- Build a portfolio of well-documented solutions to real-world datasets.
+- Stay current with the latest in data science tools and techniques.
 
