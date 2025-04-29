@@ -1,2 +1,31 @@
-# daily-data-science
-A daily collection of Python-based data science exercises including Pandas challenges, data visualizations, and mini projects using real-world datasets. Designed to build consistency, sharpen problem-solving skills, and grow hands-on expertise in data analysis.
+# 🧠 Daily Data Science Challenges
+
+Welcome! This repository is my personal daily practice log for sharpening data science skills using Python. Each day, I solve:
+
+- 🐼 1 Pandas manipulation challenge  
+- 📊 1 Data visualization task  
+- 📂 1 small dataset-based analysis or EDA
+
+My goal is to build consistency, deepen my understanding of real-world data, and stay sharp with libraries like Pandas, Matplotlib, and Seaborn. All code is written in Jupyter Notebooks and organized by day.
+
+---
+
+## 📅 Progress Tracker
+
+- ✅ Day 1 – [Sales Data Analysis](link)
+- ✅ Day 2 – [Coming soon…]
+
+---
+
+## 💡 Tools & Skills Practiced
+
+- Python, Pandas, NumPy  
+- Data cleaning & transformation  
+- Exploratory Data Analysis (EDA)  
+- Matplotlib, Seaborn  
+- Dataset exploration and storytelling
+
+---
+
+Follow along or fork the repo to start your own daily challenge!
+
