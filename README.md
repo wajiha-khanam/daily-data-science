@@ -5,7 +5,7 @@ Welcome to my personal repository for daily practice in data science! Every day,
 - 🐼 **3 Pandas manipulation challenges**  
 - 📊 **3 Data visualization tasks**  
 - 📂 **3 Exploratory Data Analysis (EDA) exercises**  
-- 📈 **3 Statistics-related questions**
+- 📈 **2 Statistics-related questions**
 
 Through this process, I aim to deepen my understanding of core concepts and stay sharp with libraries like **Pandas**, **Matplotlib**, **Seaborn**, and more. All code is written in Jupyter Notebooks and organized by day.
 
