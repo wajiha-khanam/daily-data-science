@@ -15,6 +15,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 
 - ✅ **Day 1** – [Sales Data Analysis](https://github.com/wajiha-khanam/daily-data-science/blob/main/28_04_25.ipynb)
 - ✅ **Day 2** – [Iris Data](https://github.com/wajiha-khanam/daily-data-science/blob/main/29_04_25.ipynb)
+- ✅ **Day 3** – [Customer Personality Analysis](https://github.com/wajiha-khanam/daily-data-science/blob/main/30_04_25.ipynb)
 
 ---
 
