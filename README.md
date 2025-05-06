@@ -2,10 +2,10 @@
 
 Welcome to my personal repository for daily practice in data science! Every day, I tackle a set of challenges to sharpen my skills in Python, focusing on real-world data, and building consistency across key areas. Each day, I solve:
 
-- 🐼 **3 Pandas manipulation challenges**  
-- 📊 **3 Data visualization tasks**  
-- 📂 **3 Exploratory Data Analysis (EDA) exercises**  
-- 📈 **2 Statistics-related questions**
+- 🐼 **Pandas manipulation challenges**  
+- 📊 **Data visualization tasks**  
+- 📂 **Exploratory Data Analysis (EDA) exercises**  
+- 📈 **Statistics-related questions**
 
 Through this process, I aim to deepen my understanding of core concepts and stay sharp with libraries like **Pandas**, **Matplotlib**, **Seaborn**, and more. All code is written in Jupyter Notebooks and organized by day.
 
