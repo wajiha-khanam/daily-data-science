@@ -19,6 +19,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 4** – [Netflix Movies and TV Shows](https://github.com/wajiha-khanam/daily-data-science/blob/main/01_05_25.ipynb)
 - ✅ **Day 5** – [World University Rankings](https://github.com/wajiha-khanam/daily-data-science/blob/main/02_05_25.ipynb)
 - ✅ **Day 6** – [Zomato Bangalore Restaurants](https://github.com/wajiha-khanam/daily-data-science/blob/main/06_05_25.ipynb)
+- ✅ **Day 7** – [Daily Temperatures of major cities](https://github.com/wajiha-khanam/daily-data-science/blob/main/07_05_25.ipynb)
 ---
 
 ## 💡 Tools & Skills Practiced
