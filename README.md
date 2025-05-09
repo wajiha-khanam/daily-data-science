@@ -21,6 +21,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 6** – [Zomato Bangalore Restaurants](https://github.com/wajiha-khanam/daily-data-science/blob/main/06_05_25.ipynb)
 - ✅ **Day 7** – [Daily Temperatures of major cities](https://github.com/wajiha-khanam/daily-data-science/blob/main/07_05_25.ipynb)
 - ✅ **Day 8** – [Superstore sales](https://github.com/wajiha-khanam/daily-data-science/blob/main/08_05_25.ipynb)
+- ✅ **Day 9** – [IMDB Movies](https://github.com/wajiha-khanam/daily-data-science/blob/main/09_05_25.ipynb)
 ---
 
 ## 💡 Tools & Skills Practiced
