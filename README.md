@@ -24,6 +24,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 9** – [IMDB Movies](https://github.com/wajiha-khanam/daily-data-science/blob/main/09_05_25.ipynb)
 - ✅ **Day 10** – [Beijing PM2.5 Data](https://github.com/wajiha-khanam/daily-data-science/blob/main/13_05_25.ipynb)
 - ✅ **Day 11** – [Data Science salaries](https://github.com/wajiha-khanam/daily-data-science/blob/main/14_05_25.ipynb)
+- ✅ **Day 12** – [Python Pulse – Day 1 Practice](https://github.com/wajiha-khanam/daily-data-science/blob/main/02_07_2025_Python.ipynb)
 ---
 
 ## 💡 Tools & Skills Practiced
