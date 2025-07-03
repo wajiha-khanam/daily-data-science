@@ -25,6 +25,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 10** – [Beijing PM2.5 Data](https://github.com/wajiha-khanam/daily-data-science/blob/main/13_05_25.ipynb)
 - ✅ **Day 11** – [Data Science salaries](https://github.com/wajiha-khanam/daily-data-science/blob/main/14_05_25.ipynb)
 - ✅ **Day 12** – [Python Pulse – Continued...](https://github.com/wajiha-khanam/daily-data-science/blob/main/02_07_2025_Python.ipynb)
+- ✅ **Day 13** – [Sales analysis with SQL](https://github.com/wajiha-khanam/daily-data-science/blob/main/03_07_2025_SQL.sql)
 ---
 
 ## 💡 Tools & Skills Practiced
