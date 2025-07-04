@@ -26,6 +26,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 11** – [Data Science salaries](https://github.com/wajiha-khanam/daily-data-science/blob/main/14_05_25.ipynb)
 - ✅ **Day 12** – [Python Pulse – Continued...](https://github.com/wajiha-khanam/daily-data-science/blob/main/02_07_2025_Python.ipynb)
 - ✅ **Day 13** – [Sales analysis with SQL](https://github.com/wajiha-khanam/daily-data-science/blob/main/03_07_2025_SQL.sql)
+- ✅ **Day 14** – [Students performance stats](https://github.com/wajiha-khanam/daily-data-science/blob/main/04_07_2025_Statistics.ipynb)
 ---
 
 ## 💡 Tools & Skills Practiced
