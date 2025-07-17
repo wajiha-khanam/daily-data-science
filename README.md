@@ -28,6 +28,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 13** – [Sales analysis with SQL](https://github.com/wajiha-khanam/daily-data-science/blob/main/03_07_2025_SQL.sql)
 - ✅ **Day 14** – [Students performance stats](https://github.com/wajiha-khanam/daily-data-science/blob/main/04_07_2025_Statistics.ipynb)
 - ✅ **Day 15** – [House prices](https://github.com/wajiha-khanam/daily-data-science/blob/main/08_07_2025_ML.ipynb)
+- ✅ **Day 16** – [Hotel Booking Demand](https://github.com/wajiha-khanam/daily-data-science/blob/main/17_07_2025_Python.ipynb)
 ---
 
 ## 💡 Tools & Skills Practiced
