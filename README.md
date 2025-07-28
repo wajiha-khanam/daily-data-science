@@ -1,13 +1,16 @@
 # 🧠 Daily Data Science Challenges
 
-Welcome to my personal repository for daily practice in data science! Every day, I tackle a set of challenges to sharpen my skills in Python, focusing on real-world data, and building consistency across key areas. Each day, I solve:
+Welcome to my personal repository for daily practice in data science! Every day, I tackle a set of challenges to sharpen my skills across core areas like **Python**, **SQL**, **Statistics**, and **Machine Learning**, all while working with real-world datasets and building consistent habits.
+## 📅 Daily Practice Includes:
 
 - 🐼 **Pandas manipulation challenges**  
+- 💾 **SQL query problems**  
 - 📊 **Data visualization tasks**  
 - 📂 **Exploratory Data Analysis (EDA) exercises**  
-- 📈 **Statistics-related questions**
+- 📈 **Statistics-related questions**  
+- 🤖 **Machine Learning mini-tasks**
 
-Through this process, I aim to deepen my understanding of core concepts and stay sharp with libraries like **Pandas**, **Matplotlib**, **Seaborn**, and more. All code is written in Jupyter Notebooks and organized by day.
+Through this process, I aim to deepen my understanding of core concepts and stay sharp with libraries like **Pandas**, **Matplotlib**, **Seaborn**, **Scikit-learn** and more. All code is written in Jupyter Notebooks and organized by day.
 
 ---
 
