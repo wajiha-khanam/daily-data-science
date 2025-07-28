@@ -1,6 +1,7 @@
 # 🧠 Daily Data Science Challenges
 
-Welcome to my personal repository for daily practice in data science! Every day, I tackle a set of challenges to sharpen my skills across core areas like **Python**, **SQL**, **Statistics**, and **Machine Learning**, all while working with real-world datasets and building consistent habits.
+Welcome to my personal repository for daily practice in data science! 
+Every day, I tackle a set of challenges to sharpen my skills across core areas like **Python**, **SQL**, **Statistics**, and **Machine Learning**, all while working with real-world datasets and building consistent habits.
 ## 📅 Daily Practice Includes:
 
 - 🐼 **Pandas manipulation challenges**  
