@@ -37,6 +37,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 18** – [Hotel Booking Demand - Statistics](https://github.com/wajiha-khanam/daily-data-science/blob/main/22_07_25_Stats.ipynb)
 - ✅ **Day 19** – [Hotel Booking Demand - ML](https://github.com/wajiha-khanam/daily-data-science/blob/main/23_07_25_ML.ipynb)
 - ✅ **Day 20** – [Online Retail - II - Python](https://github.com/wajiha-khanam/daily-data-science/blob/main/24_07_25_Python.ipynb)
+- ✅ **Day 21** – [Classic models database- SQL](https://github.com/wajiha-khanam/daily-data-science/blob/main/30_07_25_SQL.sql)
 ---
 
 ## 💡 Tools & Skills Practiced
