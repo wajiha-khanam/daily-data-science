@@ -42,6 +42,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 23** – [Online Retail Customer Segmentation - ML](https://github.com/wajiha-khanam/daily-data-science/blob/main/01_08_25_ML.ipynb)
 - ✅ **Day 24** – [Penguins lter data - Python](https://github.com/wajiha-khanam/daily-data-science/blob/main/07_08_25_Python.ipynb)
 - ✅ **Day 25** – [Sakila Database - SQL](https://github.com/wajiha-khanam/daily-data-science/blob/main/08_08_25_SQL.sql)
+- ✅ **Day 26** – [Penguins lter data - Stats](https://github.com/wajiha-khanam/daily-data-science/blob/main/12_08_25_Statistics.ipynb)
 ---
 
 ## 💡 Tools & Skills Practiced
