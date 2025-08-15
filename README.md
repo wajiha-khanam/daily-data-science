@@ -45,6 +45,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 26** – [Penguins lter data - Stats](https://github.com/wajiha-khanam/daily-data-science/blob/main/12_08_25_Statistics.ipynb)
 - ✅ **Day 27** – [Penguins lter Species prediction - ML](https://github.com/wajiha-khanam/daily-data-science/blob/main/13_08_25_ML.ipynb)
 - ✅ **Day 28** – [World Happiness data - Python](https://github.com/wajiha-khanam/daily-data-science/blob/main/14_08_25_Python.ipynb)
+- ✅ **Day 29** – [Chinkook Database - SQL](https://github.com/wajiha-khanam/daily-data-science/blob/main/15_08_25_SQL.sql)
 ---
 
 ## 💡 Tools & Skills Practiced
