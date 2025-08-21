@@ -48,6 +48,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 29** – [Chinkook Database - SQL](https://github.com/wajiha-khanam/daily-data-science/blob/main/15_08_25_SQL.sql)
 - ✅ **Day 30** – [World Happiness analysis - Stats](https://github.com/wajiha-khanam/daily-data-science/blob/main/18_08_25_Stats.ipynb)
 - ✅ **Day 31** – [World Happiness analysis - ML(Linear & RandomForest)](https://github.com/wajiha-khanam/daily-data-science/blob/main/19_08_25_ML.ipynb)
+- ✅ **Day 32** – [Bank data - Python](https://github.com/wajiha-khanam/daily-data-science/blob/main/21_08_25_Python.ipynb)
 ---
 
 ## 💡 Tools & Skills Practiced
