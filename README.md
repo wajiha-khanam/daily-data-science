@@ -6,7 +6,7 @@ Every day, I tackle a set of challenges to sharpen my skills across core areas l
   
 - 🐼 **Pandas manipulation challenges**    
 - 💾 **SQL query problems**   
-- 📊 **Data visualization tasks**  
+- 📊 **Data visualization tasks**   
 - 📂 **Exploratory Data Analysis (EDA) exercises**   
 - 📈 **Statistics-related questions**   
 - 🤖 **Machine Learning mini-tasks**
