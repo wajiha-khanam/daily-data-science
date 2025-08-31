@@ -5,7 +5,7 @@ Every day, I tackle a set of challenges to sharpen my skills across core areas l
 ## 📅 Daily Practice Includes: 
   
 - 🐼 **Pandas manipulation challenges**    
-- 💾 **SQL query problems**    
+- 💾 **SQL query problems**     
 - 📊 **Data visualization tasks**   
 - 📂 **Exploratory Data Analysis (EDA) exercises**   
 - 📈 **Statistics-related questions**   
