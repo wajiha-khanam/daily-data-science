@@ -53,6 +53,7 @@ Through this process, I aim to deepen my understanding of core concepts and stay
 - ✅ **Day 34** – [Bank data - Stats](https://github.com/wajiha-khanam/daily-data-science/blob/main/25_08_25_Stats.ipynb)
 - ✅ **Day 35** – [Bank data - ML](https://github.com/wajiha-khanam/daily-data-science/blob/main/01_09_25_ML.ipynb)
 - ✅ **Day 36** – [Python](https://github.com/wajiha-khanam/daily-data-science/blob/main/03_09_25_Python.ipynb)
+- ✅ **Day 37** – [SQL](https://github.com/wajiha-khanam/daily-data-science/blob/main/04_09_25_SQL.sql)
 ---
 
 ## 💡 Tools & Skills Practiced
